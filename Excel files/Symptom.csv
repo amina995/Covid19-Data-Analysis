@@ -1,0 +1,80 @@
+﻿SymptomID,Name
+2,Fever
+3,Abdominal pain
+4,Aching muscles
+6,Acute respiratory viral infection
+7,Anhelation
+8,Anorexia
+9,Asymptomatic
+10,Breathing difficulty
+11,Chest distress
+12,Chest pain
+13,Chest tightness
+14,Chills
+15,Cold
+16,Conjunctivitis
+17,Cough
+20,Diarrhea
+23,Difficulty breathing
+24,Difficulty walking
+25,Discharge
+26,Discomfort
+27,Dizziness
+29,Dry mouth
+30,Dry throat
+31,Dyspnea
+32,Esophageal reflux
+34,Expectoration
+35,Eye irritation
+36,Fatigue
+41,Full body slump
+43,Headache
+45,Joint pain
+46,Lack of energy
+47,Lesions on chest radiographs
+48,Low fever
+49,Malaise
+52,Muscle ache
+54,Muscle pain
+56,Muscular soreness
+57,Muscular stiffness
+58,Myalgia
+60,Nasal congestion
+61,Nasal discharge
+62,Nausea
+67,Pharyngalgia
+68,Pharyngeal discomfort
+69,Pharyngeal dryness
+70,Pharynx
+71,Phlegm
+72,Physical discomfort
+73,Pleural effusion
+74,Pleuritic chest pain
+75,Pneumonia
+76,Pneumonitis
+78,Pulmonary inflammation
+79,Respiratory distress
+81,Respiratory symptoms
+82,Rever
+83,Rhinorrhea
+85,Rigor
+86,Runny nose
+90,Shortness of breath
+92,Sneezing
+93,Sore body
+94,Sore limbs
+95,Sore muscle
+97,Sore throat
+98,Soreness
+99,Sputum
+100,Sweating
+101,Systemic weakness
+102,Throat discomfort
+103,Toothache
+104,Transient fatigue
+105,Vomiting
+107,Weakness
+108,Wheezing
+115,Heart failure
+116,Coronary syndrome
+117,Acute pharyngitis
